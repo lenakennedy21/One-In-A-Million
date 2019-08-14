@@ -1,25 +1,37 @@
 body{
   text-align: center;
   background-color: #BE0F0F;
-  font-family: Chattagirie;
   font-size:2.2em;
   color: #FCE4E4;
 }
+.headers{
+  font-family: Chattagirie;
+}
 .GENRE{
   padding-bottom: 5px;
-  font-family: Josefin Sans;
 }
-
-.drop-down {
+.drop-down, .drop-down-two, .drop-down-three {
   font-size: .7em;
   background-color:black;
   color:white;
   padding: 0px;
+  border-radius: 15px;
   font-family: Josefin Sans;
 }
 
 .go {
   background-color:black;
+  border-radius:15px;
+  margin:10px;
+  color:white;
+  font-size: .7em;
+  font-family: Josefin Sans;
+}
+
+.submit {
+  background-color:black;
+  border-radius:15px;
+  margin:10px;
   color:white;
   font-size: .7em;
   font-family: Josefin Sans;
