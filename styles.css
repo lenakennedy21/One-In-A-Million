@@ -35,4 +35,5 @@ body{
   color:white;
   font-size: .7em;
   font-family: Josefin Sans;
+  align-items: flex-end;
 }
