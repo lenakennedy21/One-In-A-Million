@@ -12,3 +12,15 @@ p {
   height:350px;
   width: 250px;
 }
+
+.homebutt{
+  display: flex;
+  justify-content: flex-end;
+}
+
+.home{
+  background-color: black;
+  color: white;
+  border-radius: 15px;
+  font-size: 20px;
+}

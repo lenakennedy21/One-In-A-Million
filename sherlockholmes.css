@@ -7,3 +7,15 @@ body {
 p {
 font-size: 1.5em;
 }
+
+.homebutt{
+  display: flex;
+  justify-content: flex-end;
+}
+
+.home{
+  background-color: black;
+  color: white;
+  border-radius: 15px;
+  font-size: 20px;
+}
