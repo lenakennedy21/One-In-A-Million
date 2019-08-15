@@ -1,15 +1,18 @@
 body{
-  text-align: center;
   background-color: #BE0F0F;
   font-size:2.2em;
   color: #FCE4E4;
+  text-align:center;
 }
+
 .headers{
   font-family: Chattagirie;
 }
+
 .GENRE{
   padding-bottom: 5px;
 }
+
 .drop-down, .drop-down-two, .drop-down-three {
   font-size: .7em;
   background-color:black;
@@ -26,14 +29,35 @@ body{
   color:white;
   font-size: .7em;
   font-family: Josefin Sans;
+  align-content:left;
 }
 
-.submit {
+.login {
   background-color:black;
   border-radius:15px;
   margin:10px;
   color:white;
   font-size: .7em;
   font-family: Josefin Sans;
-  align-items: flex-end;
 }
+
+.submit {
+  background-color:black;
+  border-radius:15px;
+  margin-top:40px;
+  color:white;
+  font-size: .7em;
+  font-family: Josefin Sans;
+}
+
+.sherlock, .fugitive, .mulholland-drive{
+  display:none;
+  align-content: center;
+  margin: 50px;
+  height: 600px;
+  width: 350px;
+}
+
+/* .movieContainer h1 {
+  fgdfg
+} */
