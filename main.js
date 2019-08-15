@@ -23,6 +23,7 @@ function allInformation() {
 
 var img = $('.sherlock');
 var imgone = $('.fugitive');
+var imgtwo = $('.orient');
 var findMovie = $('.submit');
 
 findMovie.on("click", showPicture);
@@ -31,6 +32,7 @@ function showPicture() {
   event.preventDefault();
   $(".sherlock").css ("display","block")
   $(".fugitive").css ("display", "block")
+  $(".orient").css ("display", "block")
 }
 
 
