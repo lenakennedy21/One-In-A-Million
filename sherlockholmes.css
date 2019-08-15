@@ -1,13 +1,9 @@
 body {
   text-align: center;
   background-color: #7DB977;
-  color: black;
-}
-
-h1{
-  color: black;
+  font-family: Josefin Sans;
 }
 
 p {
-  font-size: 1.2em;
+font-size: 1.5em;
 }

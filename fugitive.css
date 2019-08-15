@@ -1,4 +1,9 @@
 body {
   text-align: center;
   background-color: #E57726;
+  font-family: Josefin Sans;
+}
+
+p {
+font-size: 1.5em;
 }
