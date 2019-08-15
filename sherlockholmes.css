@@ -1,7 +1,13 @@
 body {
   text-align: center;
+  background-color: #7DB977;
+  color: black;
 }
 
 h1{
   color: black;
+}
+
+p {
+  font-size: 1.2em;
 }

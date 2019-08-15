@@ -4,7 +4,10 @@ body{
   color: #FCE4E4;
   text-align:center;
 }
-
+.movieImages{
+  display: flex;
+  justify-content: space-around;
+}
 .headers{
   font-family: Chattagirie;
 }
@@ -55,9 +58,5 @@ body{
   align-content: center;
   margin: 50px;
   height: 600px;
-  width: 350px;
+  width: 420px;
 }
-
-/* .movieContainer h1 {
-  fgdfg
-} */
