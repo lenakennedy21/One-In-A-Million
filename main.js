@@ -15,7 +15,7 @@ function allInformation() {
   var genre = $('.drop-down').val();
   var subgenre = $('.drop-down-two').val();
   var rating = $('.drop-down-three').val();
-  empty.append(`you picked a ${rating} ${genre} ${subgenre} movie!`);
+  empty.append(`You picked a ${rating} ${genre} ${subgenre} movie!`);
   $('.drop-down').val("");
   $('.drop-down-two').val("");
   $('.drop-down-three').val("");
